@@ -8,3 +8,8 @@ output.log
 chromadb/
 chroma_db/
 .DS_Store
+bin
+include
+lib*
+pyvenv.cfg
+share
