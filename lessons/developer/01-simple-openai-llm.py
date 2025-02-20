@@ -1,4 +1,4 @@
-#pip install langchain-community openai python-dotenv langchain unstructured markdown tiktoken chromadb google-search-results langchain-openai
+#pip install langchain-community openai python-dotenv langchain unstructured markdown tiktoken chromadb google-search-results langchain-openai crewai duckduckgo-search
 
 from dotenv import load_dotenv
 load_dotenv()
